@@ -40,8 +40,6 @@ const Settings = () => {
     title: "",
   }
 
-  console.log(onDelete);
-
   const contestantColumns = [
     {
       Header: "NAME",
